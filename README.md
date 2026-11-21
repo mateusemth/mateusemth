@@ -30,7 +30,7 @@ Se o seu time perde tempo com planilha, retrabalho ou informação espalhada, eu
 
 | | Projeto | O que resolve |
 | :-- | :-- | :-- |
-| 01 | **Base de Conhecimento + MCP** | O conhecimento de uma empresa de ERP, organizado para pessoas e assistentes de IA consultarem a mesma fonte. |
+| 01 | **Base de Conhecimento + MCP** | O conhecimento de uma empresa, organizado para pessoas e assistentes de IA consultarem a mesma fonte. |
 | 02 | **[Monitor Fiscal](https://fiscal.mateusemth.dev)** | Nota fiscal parada? Em segundos você sabe se o problema é a SEFAZ. |
 | 03 | **Hub de Desenvolvimento** | Uma porta de entrada para tudo que o time de desenvolvimento usa. |
 | 04 | **Controle de Versões** | Planilhas de Excel que viraram sistema web com login, permissões e Firebase. |
