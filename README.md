@@ -13,7 +13,7 @@ Se o seu time perde tempo com planilha, retrabalho ou informação espalhada, eu
   <a href="https://mateusemth.dev"><img src="https://img.shields.io/badge/mateusemth.dev-141413?style=for-the-badge&logoColor=white" alt="Site" /></a>
   <a href="https://wa.me/5514988080752?text=Ol%C3%A1%2C%20Mateus!%20Vi%20seu%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="mailto:me@mateusemth.dev"><img src="https://img.shields.io/badge/me@mateusemth.dev-FF4F00?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail" /></a>
-  <a href="https://instagram.com/mateusemth"><img src="https://img.shields.io/badge/@mateusemth-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://instagram.com/mateusemth.dev"><img src="https://img.shields.io/badge/@mateusemth.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
