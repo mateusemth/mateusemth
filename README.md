@@ -34,7 +34,8 @@ Se o seu time perde tempo com planilha, retrabalho ou informação espalhada, eu
 | 02 | **[Monitor Fiscal](https://fiscal.mateusemth.dev)** | Nota fiscal parada? Em segundos você sabe se o problema é a SEFAZ. |
 | 03 | **Hub de Desenvolvimento** | Uma porta de entrada para tudo que o time de desenvolvimento usa. |
 | 04 | **Controle de Versões** | Planilhas de Excel que viraram sistema web com login, permissões e Firebase. |
-| 05 | **MCP sob medida** · *em construção* | A empresa conecta os dados e a LLM desenvolve as ferramentas. |
+| 05 | **Bots de Discord e Teams** | Atendimento, lembretes de projeto e consulta de clientes direto no chat do time, com IA. |
+| 06 | **MCP sob medida** · *em construção* | A empresa conecta os dados e a LLM desenvolve as ferramentas. |
 
 **Fora do expediente:** [Jantar Sinistro](https://jantarsinistro.com.br), uma experiência interativa em que cada escolha pode mudar o jantar.
 
